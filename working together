@@ -1,0 +1,11 @@
+working together
+we have org, and a repo on it
+everyone forked it/made a copy of it
+and cloned it to our computers
+add the orgs git url as a new remote called upstream
+then work away!
+when your code is in a good spot, make a commit.
+push it to your origin (your fork).
+make a pull request to the organization so that everyone gets that code
+!important - do NOT merge your own pull request. you want someone else to look at the code - now they're aware and it help to prevent merge conflicts
+then EVERYONE do a git pull upstream master
