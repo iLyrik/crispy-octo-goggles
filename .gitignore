@@ -2,3 +2,5 @@
 *.css.map
 *.css
 .DS_Store
+public/styles
+public/scripts
